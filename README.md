@@ -18,3 +18,25 @@ If you don't have python, get it [here](https://www.python.org/downloads/)
 
 Go to [Webby](https://github.com/64bit-lunarteam/WebbyRevamped/blob/main/Webby/webbyrevamp.py). and in the top right corner, press ```Download raw file```. Now, you have Webby!
 
+# Commands
+This is an example of the ```Sendmsg``` command.
+```
+[user]@webby$ Sendmsg
+Enter the message: Hi
+[SUCCESS] Message sent successfully!
+```
+
+This is an example of the ```Sendembed``` command.
+```
+[user]@webby$ Sendembed author (author) dingdong.com (author url) coolpictures/storage/picture1 (authoriconurl) Test (title) This is a test embed! (description) roblox.com (url) 124 (color) coolpictures/storage/picture2 (image url) coolpictures/storage/picture3 (thumbnail url) footertingy (footer) coolpictures/storage/footericon1 (footericon) nil (timestamp)
+[SUCCESS] Embed sent successfully! Title: Test
+```
+Note: if you don't want a specific element shown, set it to nil (example: ```Sendembed nil nil nil Testing Hi nil nil nil nil footer nil nil```).
+
+This is an example of the ```WebhookUse``` command.
+```
+[user]@webby$ WebhookUse
+Enter the webhook URL: https://discord.com/coolwebhook
+[INFO] Webhook URL set to: https://discord.com/coolwebhook
+```
+
