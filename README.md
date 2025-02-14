@@ -16,5 +16,5 @@ First ensure that you have python installed using the command ```python --versio
 
 If you don't have python, get it [here](https://www.python.org/downloads/)
 
-Make a new text file and paste the source code into it, now you can use Webby.
+Make a new text file and paste the [source code](https://github.com/64bit-lunarteam/WebbyRevamped/blob/main/Webby/webbyrevamp.py) into it, now you can use Webby.
 
