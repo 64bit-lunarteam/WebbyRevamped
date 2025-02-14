@@ -16,7 +16,7 @@ First ensure that you have python installed using the command ```python --versio
 
 If you don't have python, get it [here](https://www.python.org/downloads/)
 
-Go to [Webby](https://github.com/64bit-lunarteam/WebbyRevamped/blob/main/Webby/webbyrevamp.py). and in the top right corner, press ```Download raw file```. Now, you have Webby!
+Go to [Webby](https://github.com/64bit-lunarteam/WebbyRevamped/blob/main/Webby/webbyrevamp.py), and in the top right corner, press ```Download raw file```. Now, you have Webby!
 
 # Commands
 This is an example of the ```Sendmsg``` command.
