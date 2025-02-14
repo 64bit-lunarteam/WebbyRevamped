@@ -10,3 +10,6 @@ Webby is a Discord webhook controller intended for **educational** and **ethical
 # PREVIEW
 ![preivew](image_2025-02-13_193711998.png)
 ```Username censored for privacy purposes```
+
+# DOWNLOAD
+Get Webby [here](https://64bit-lunarteam.github.io/WebbyRevamped/)
