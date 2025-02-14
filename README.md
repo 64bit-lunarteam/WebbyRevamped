@@ -11,5 +11,10 @@ Webby is a Discord webhook controller intended for **educational** and **ethical
 ![preivew](image_2025-02-13_193711998.png)
 ```Username censored for privacy purposes```
 
-# DOWNLOAD
-Get Webby [here](https://64bit-lunarteam.github.io/WebbyRevamped/)
+# How do I download Webby?
+First ensure that you have python installed using the command ```python --version```
+
+If you don't have python, get it [here](https://www.python.org/downloads/)
+
+Make a new text file and paste the source code into it, now you can use Webby.
+
