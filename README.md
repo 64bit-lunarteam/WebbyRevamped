@@ -40,3 +40,4 @@ Enter the webhook URL: https://discord.com/coolwebhook
 [INFO] Webhook URL set to: https://discord.com/coolwebhook
 ```
 
+-# Made by Soupcan7 #-
